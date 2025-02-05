@@ -12,11 +12,12 @@
 
 ###
 
-<h4 align="left">Jr. Web Developer</h4>
+<h4 align="left">Web Developer</h4>
 
 ###
 
-<p align="left">Md Tanbir Hossen<br>Reading Computer science<br>Coding is my passion</p>
+<p align="left">Md Tanbir Hossen<br>Reading Computer science<br>📞 Contact: +1234567890
+</p>
 
 ###
 
