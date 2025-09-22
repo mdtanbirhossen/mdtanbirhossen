@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/mdtanbirhosen/mdtanbirhosen/refs/heads/main/github_banner_image.png" />
+  <img height="250" src="./github_banner_image.png" />
 </div>
 
 ---
